@@ -2,18 +2,16 @@
 
 <script>
      let skillsObj = [
-    { 'name' : 'javascript', 'description' : 'blahblahblah', 'image' : 'images/js.svg'},
+    { 'name' : 'javascript', 'description' : 'es6', 'image' : 'images/js.svg'},
     { 'name' : 'css', 'description' : 'blahblahblah', 'image' : 'images/css.svg'},
-    { 'name' : 'html', 'description' : 'blahblahblah', 'image' : 'images/html5.svg'},
-    { 'name' : '', 'description' : 'blahblahblah', 'image' : 'images/js.svg'},
-    { 'name' : 'node.js', 'description' : 'blahblahblah', 'image' : 'images/node.svg'},
-    { 'name' : 'frameworks', 'description' : 'blahblahblah', 'image' : 'images/react.svg'},
-    { 'name' : 'ruby', 'description' : 'blahblahblah', 'image' : 'images/ruby.svg'},
-    { 'name' : 'sass', 'description' : 'blahblahblah', 'image' : 'images/sass.svg'},
-    { 'name' : 'tools', 'description' : 'blahblahblah', 'image' : 'images/settings.svg'},
-    { 'name' : 'SQL', 'description' : 'blahblahblah', 'image' : 'images/database-solid.svg'},
-    { 'name' : 'javascript', 'description' : 'blahblahblah', 'image' : 'images/js.svg'},
-
+    { 'name' : 'html', 'description' : 'html5', 'image' : 'images/html5.svg'},
+    { 'name' : 'java', 'description' : 'used to build android apps, exposure to kotlin as well', 'image' : 'images/js.svg'},
+    { 'name' : 'node.js', 'description' : 'back end js experience', 'image' : 'images/node.svg'},
+    { 'name' : 'frameworks', 'description' : 'react and svelte', 'image' : 'images/react.svg'},
+    { 'name' : 'ruby', 'description' : 'in full stack web dev', 'image' : 'images/ruby.svg'},
+    { 'name' : 'sass', 'description' : 'and exposure to other CSS tools', 'image' : 'images/sass.svg'},
+    { 'name' : 'tools', 'description' : 'npm, vscode, github, android studio', 'image' : 'images/settings.svg'},
+    { 'name' : 'SQL', 'description' : 'used in full stack web dev', 'image' : 'images/database-solid.svg'}
   ]
 </script>
 

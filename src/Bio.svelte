@@ -1,14 +1,11 @@
 <div class='wrapper'>
   <div class="container">
-    <h1></h1>
-    <p>Front End Developer. Interested in svelte. Enjoys learning
+    <h1>About</h1>
+    <p>I'm a Front End Developer interested in svelte. Enjoys learning
       new technologies.
       Well versed in HTML, CSS JavaScript. Enjoys buidling front ends.
     </p>
-    <h1>About Me</h1>
-    <p>Interested in reading, writing, travel and food.
-       Background in government and law. Obsessed with cooking.
-     </p>
+
      <p>Currently buidling apps in Svelte and compiling dev knowledge
      that will be published on this site.</p>
   </div>
